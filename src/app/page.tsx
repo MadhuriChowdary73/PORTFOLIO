@@ -185,7 +185,7 @@ export default function Home() {
                 <li>Interactive AI assistant for patient guidance</li>
               </ul>
               <div className="flex flex-wrap justify-start gap-4 mb-4">
-                <a href="https://github.com/MadhuriChowdary73" target="_blank" rel="noopener noreferrer" className="flex items-center gap-1 text-[var(--color-primary)] font-label text-xs tracking-widest uppercase hover:underline decoration-[var(--color-primary)]/30 underline-offset-4 transition-all">
+                <a href="https://arogya-mitra-madhuri.lovable.app" target="_blank" rel="noopener noreferrer" className="flex items-center gap-1 text-[var(--color-primary)] font-label text-xs tracking-widest uppercase hover:underline decoration-[var(--color-primary)]/30 underline-offset-4 transition-all">
                   Live Demo <span className="material-symbols-outlined text-[14px]">open_in_new</span>
                 </a>
                 <a href="https://github.com/MadhuriChowdary73" target="_blank" rel="noopener noreferrer" className="flex items-center gap-1 text-[var(--color-on-surface-variant)] font-label text-xs tracking-widest uppercase hover:text-[var(--color-on-surface)] transition-all">
